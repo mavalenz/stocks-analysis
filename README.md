@@ -9,10 +9,10 @@
 ### The results of this analysis is that in 2017 Steve's stocks overall performed better than in 2018. Per the tables below you can see more positive returns in 2017 than in 2018. Which is easily depicted in the green highlighted cells.
 
 *Stocks Analysis for 2017*
-![VBA_Challenge_2017](C:\Users\marav\Documents\Columbia Data Analytics Bootcamp\Module 2\stocks-analysis\Resources\VBA_Challenge_2017.png)
+![VBA_Challenge_2017](https://github.com/mavalenz/stocks-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 *Stocks Analysis for 2018*
-![VBA_Challenge_2018](C:\Users\marav\Documents\Columbia Data Analytics Bootcamp\Module 2\stocks-analysis\Resources\VBA_Challenge_2018.png)
+![VBA_Challenge_2018](https://github.com/mavalenz/stocks-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 What you'll also notice in the above tables is that the time it took to run the 2018 data was faster than the run time for 2017. This may be because we ran the analysis on 2017 first before 2018 and run time performs faster the more times it is run, since the data has already been analyzed once before.
 
